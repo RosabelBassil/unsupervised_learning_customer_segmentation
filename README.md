@@ -1,7 +1,8 @@
 # unsupervised_learning_customer_segmentation
 Based on a survey dataset of 137 individuals answering 76 questions pertaining to the Big-Five personality traits and the Hult DNA attributes.  PCA and clustering algorithm was performed to identify segments of a questionnaire base and insights were generated of how to market a Macbook to them.
 
-##Unsupervised Analysis Project
+##Unsupervised Analysis Project:
+
 Analyze and interpret an unsupervised learning problem based on survey data. This will require an ability to code unsupervised machine learning algorithms and interpret their results.
 
 #Case Information:
